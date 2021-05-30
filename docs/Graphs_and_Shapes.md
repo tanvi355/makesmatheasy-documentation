@@ -2,15 +2,15 @@
 layout: default
 title: Graphs and Shapes
 permalink: /graphs_shapes/
-description: Plotting Graphs And 2D/3D Shapes 
+description: Plotting Graphs And 2D/3D Shapes
 ---
 
 # Supplementary Angle Calculator
-- Supplementary angles are those angles that measure up to 180 degrees. For example, angle 130° and angle 50° are supplementary because on adding 130° and 50° we get 180°. 
+- Supplementary angles are those angles that measure up to 180 degrees. For example, angle 130° and angle 50° are supplementary because on adding 130° and 50° we get 180°.
 - Similarly, complementary angles add up to 90 degrees. The two supplementary angles, if joined together, form a straight line and a straight angle.
 - But it should be noted that the two angles that are supplementary to each other, do not have to be next to each other. Hence, any two angles can be supplementary, if their sum equal to 180°.
 
-- Geometry is one of the important branches of mathematics that deals with the study of different shapes. It initiates the study of lines and angles. 
+- Geometry is one of the important branches of mathematics that deals with the study of different shapes. It initiates the study of lines and angles.
 - A straight line is a line without curves and it is defined as the shortest distance between two points. An angle is formed when the line segment meets at a point.
 - This tool calculates supplimentary angle of any given angle
 
@@ -24,7 +24,7 @@ description: Plotting Graphs And 2D/3D Shapes
 
 
 # Complementary Angle
-- When the sum of two angles is 90°, then the angles are known as complementary angles. 
+- When the sum of two angles is 90°, then the angles are known as complementary angles.
 - In other words, if two angles add up to form a right angle, then these angles are referred to as complementary angles. Here we say that the two angles complement each other.
 - Suppose if one angle is x then the other angle will be 90o – x. Hence, we use these complementary angles for trigonometry ratios, where on ratio complement another ratio by 90 degrees such as;
   - sin (90°- A) = cos A and cos (90°- A) = sin A
@@ -42,7 +42,7 @@ description: Plotting Graphs And 2D/3D Shapes
 
 
 # Coterminal Angle
-- In Mathematics, the coterminal angle is defined as an angle, where two angles are drawn in the standard position. Also both have their terminal sides in the same location. 
+- In Mathematics, the coterminal angle is defined as an angle, where two angles are drawn in the standard position. Also both have their terminal sides in the same location.
 - For example, the coterminal angle of 45 is 405 and -315. Here 405 is the positive coterminal angle, -315 is the negative coterminal angle.
 - This tool calculates coterminal angle of any given angle
 
@@ -57,7 +57,7 @@ description: Plotting Graphs And 2D/3D Shapes
 
 
 # SSS trianlge's Angle
-- "SSS" is when we know three sides of the triangle , and want to find the missing angle 
+- "SSS" is when we know three sides of the triangle , and want to find the missing angle
 - TO solve an SSS triangle
   - Use the Law of cosines first to calculate one of the angles
   - Use the law of cosines again to find another angle functionsFinally Use angles of a triangle to add 180 Degree to find the last angle function
@@ -173,7 +173,7 @@ $$ \dfrac{a1x + b1y + c1}{ \sqrt{a^2 + b^2} } = \plusmn \dfrac{a2x + b2y + c2}{\
   - The point will have a unique distance from the origin (r), thus a point inpolar coordinate system is represented as a pair of coordinates (r,theta).
   - the pole is represneted by  $$ (0,\theta) $$ for any value of $$ \theta , $$ where r = 0.
   - the distance from the pole is called the radical coordinate, radical distance or simply radius and the angular coordinate, polar angle or azimuth
-  - consider the figure below that depicts the relationship betweenpolar and cartesian coordinates 
+  - consider the figure below that depicts the relationship betweenpolar and cartesian coordinates
 
 <p>
 
@@ -211,7 +211,7 @@ $$ r = \sqrt{x^2  + y^2} and tan\theta = \dfrac{y}{x} $$
 
 <div class="container my-3 row">
 <div class="col-md-6 pb-2" >
-<img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/shapes/coordinate-system-5.png" >
+<img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/shapes/coordinate-system-5.gif" >
 </div>
 </div>
 
@@ -272,9 +272,9 @@ $$ y = r sin \theta $$
 
 
 # Spherical Coordinate Calculations
-- Spherical coordinates can be a little challenging to understand at first. 
-- Spherical coordinates determine the position of a point in three-dimensional space based on the distance ρ from the origin and two angles θ and ϕ. 
-- If one is familiar with polar coordinates, then the angle θ isn't too difficult to understand as it is essentially the same as the angle θ from polar coordinates. 
+- Spherical coordinates can be a little challenging to understand at first.
+- Spherical coordinates determine the position of a point in three-dimensional space based on the distance ρ from the origin and two angles θ and ϕ.
+- If one is familiar with polar coordinates, then the angle θ isn't too difficult to understand as it is essentially the same as the angle θ from polar coordinates.
 
 - this tool calculates sphericla coordinates
 
@@ -312,14 +312,14 @@ $$ y = r sin \theta $$
 # Graph Plotting
 - This tool can be used to plot graphs for logorithmic functions, exponential functions, trignometric functions, inverse trignometric functions, hyperbolic functions and all algebric function containg only single variable x.
 - Below is a working demo,kindly try the following functions to understand better.
- <p> 
+ <p>
   $$ sinh (x) $$
   $$ log (x) $$
   $$ e^x (x) $$
   $$ -x^4+2x^2  $$
   $$ x^3  $$
   $$ x^3  $$
- </p> 
+ </p>
 > Note :  Don't use Capital X and use space between function and the variable.
 
 ![Plot Graph](../public/gifs/Plot_graph.gif){:#graphs-edit}
@@ -356,7 +356,7 @@ $$ y = r sin \theta $$
     <td>$$Scalene  \enspace Triangle$$</td>
     <td>$$ \sqrt{[s(s−a)(s−b)(s−c)]} $$</td>
     <td>$$ a+b+c $$</td>
-    
+
   </tr>
   <tr>
     <td>$$Isosceles  \enspace Triangle$$</td>
@@ -632,17 +632,19 @@ $$ y = r sin \theta $$
 
 <div class="container my-3 row">
 <div class="col-md-6 pb-2" >
-<img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/shapes/Hetrahedron.jpg" >
+<img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/shapes/Tetrahedron.jpg" >
+</div>
+</div>
 
 # 3D Geometry
 - 3D geometry involves the mathematics of shapes in 3D space and involving 3 coordinates which are x-coordinate, y-coordinate and z-coordinate. In a 3d space, three parameters are required to find the exact location of a point
-- In mathematics, we generally come across Cartesian geometry,where we basically deal with location of a point in x-y plane.This is called 2-D geometry. 
+- In mathematics, we generally come across Cartesian geometry,where we basically deal with location of a point in x-y plane.This is called 2-D geometry.
 - Hence,3-D Geometry is nothing but an extension of this 2-D geometry taking into consideration three orthogonal axes,viz., x,y and z axes in Cartesian geometry, for example.For a practical example,we can consider a circle,which can be drawn on a piece of paper,i.e.,plane but cannot be realized in practical world.
 - Likewise, we can have a ball in our hand,which is a sphere, the 3-D analogue of circle,but we can't draw it on paper.As many number of axes included,as many number of dimensions : this is the firsthand general rule that is followed.The 3-D geometry is sometimes also called Solid Geometry, since it deals with solid or 3-D objects that we encounter in our daily life.
 - Further extensions of this geometry lead to tensors and manifolds,which were included in Einstein's Theory of Relativity.
 
 
-## Some Usefull Formulas and Properties
+## Some Useful Formulas and Properties
 
 <p>
 
@@ -657,20 +659,21 @@ $$  Let \enspace P(x,y,z) and \enspace Q(x2,y2,z2) be 2 points \enspace then \en
 $$ Projections \enspace of \enspace PQ \enspace , P(x1,y1,z1), Q(x2,y1,z1) \enspace on a line \enspace whose \enspace direction \enspace cosines \enspace are l,m,n \enspace is l(x2-x1) + m(y2-y1) + n(z2-z1)  $$
 
 
-<p>
+</p>
 
 
 
-## 3D Geometry Calcuator 
+## 3D Geometry Calcuator
 ### Equation Of a Plane
 - This tool can be used to find the equation of a plane based on the coordinates
 
 <div class="container my-3 row">
 <div class="col-md-6 pb-2" >
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/shapes/3d-geometry-1.png" >
+</div>
+</div>
 
-
-# Percentage chaneg in volume calculator 
+# Percentage chaneg in volume calculator
 ## Percentage Change In Volume Of A Sphere
 - This too can be used to calculate percentage change in the volume of a sphere
 
@@ -686,7 +689,7 @@ $$ Projections \enspace of \enspace PQ \enspace , P(x1,y1,z1), Q(x2,y1,z1) \ensp
 
 
 
-  - Cube 
+  - Cube
     - 3 squares meet at each vertex
     - 6 faces
     - 8 vertices
@@ -702,7 +705,7 @@ $$ Projections \enspace of \enspace PQ \enspace , P(x1,y1,z1), Q(x2,y1,z1) \ensp
 <div class="col-md-6 pb-2" >
 
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/shapes/cube.jpg" >
-
+<br><br>
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/pc-cube.png" >
 
 </div>
@@ -726,7 +729,7 @@ $$ Projections \enspace of \enspace PQ \enspace , P(x1,y1,z1), Q(x2,y1,z1) \ensp
 <div class="col-md-6 pb-2" >
 
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/shapes/octahedron.jpg" >
-
+<br><br>
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/pc-cuboid.png" >
 
 </div>
@@ -741,7 +744,7 @@ $$ Projections \enspace of \enspace PQ \enspace , P(x1,y1,z1), Q(x2,y1,z1) \ensp
     - 30 edges
 
 
-### Distance Between two points 
+### Distance Between two points
 - This tool can be used to find distance between two points along with solving steps
 
 
@@ -754,10 +757,10 @@ $$ Projections \enspace of \enspace PQ \enspace , P(x1,y1,z1), Q(x2,y1,z1) \ensp
 <div class="col-md-6 pb-2" >
 
 
-<img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/shapes/dooechedron.jpg" >
-
+<img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/shapes/dodoechedron.jpg" >
+<br><br>
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/shapes/3d-geometry-2.png" >
-
+<br><br>
 
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/vw-1.png" >
 
@@ -792,7 +795,8 @@ $$ Projections \enspace of \enspace PQ \enspace , P(x1,y1,z1), Q(x2,y1,z1) \ensp
 <div class="container my-3 row">
 <div class="col-md-6 pb-2" >
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/shapes/3d-geometry-3.png" >
-
+</div>
+</div>
 
 
 # Area of crescent and lune
@@ -803,8 +807,8 @@ $$ Projections \enspace of \enspace PQ \enspace , P(x1,y1,z1), Q(x2,y1,z1) \ensp
   - So, what is a crescent? A crescent is a lune which does not include the original disk's center. It means that the distance between the disk centers is smaller than the radius of the covering disk.
 
 ## What is lune
-- In plane geometry, a lune is the concave-convex region bounded by two circular arcs. It has one boundary portion for which the connecting segment of any two nearby points moves outside the region and another boundary portion for which the connecting segment of any two nearby points lies entirely inside the region. 
-- A convex-convex region is termed a lens. 
+- In plane geometry, a lune is the concave-convex region bounded by two circular arcs. It has one boundary portion for which the connecting segment of any two nearby points moves outside the region and another boundary portion for which the connecting segment of any two nearby points lies entirely inside the region.
+- A convex-convex region is termed a lens.
 - The word lune derives from luna, the Latin word for "moon".
 - Formally, a lune is the relative complement of one disk in another (where they intersect but neither is a subset of the other). Alternatively, if {\displaystyle A}A and {\displaystyle B}B are disks, then it is a lune.
 
@@ -812,13 +816,14 @@ $$ Projections \enspace of \enspace PQ \enspace , P(x1,y1,z1), Q(x2,y1,z1) \ensp
 
 
 <div class="container my-3 row">
-<div class="col-md-6 pb-2" >
+<div class="col-md-12 pb-2" >
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/shapes/crescent-1.png" >
 </div>
 <div class="col-md-6 pb-2" >
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/shapes/crescent-2.png" >
 
-
+</div>
+</div>
 
 
 
@@ -827,7 +832,7 @@ $$ Projections \enspace of \enspace PQ \enspace , P(x1,y1,z1), Q(x2,y1,z1) \ensp
 
 ## Congruence properties of triangle
 
-- SSS property  (Side- Side - Side) - when all the three corresponding sides of 2 triangles are of equal size then triangles are congruent 
+- SSS property  (Side- Side - Side) - when all the three corresponding sides of 2 triangles are of equal size then triangles are congruent
 
 <div class="container my-3 row">
 <div class="col-md-6 pb-2" >
@@ -847,6 +852,8 @@ $$ Projections \enspace of \enspace PQ \enspace , P(x1,y1,z1), Q(x2,y1,z1) \ensp
 <div class="container my-3 row">
 <div class="col-md-6 pb-2" >
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/shapes/3d-geometry-4.png" >
+</div>
+</div>
 
 - SAS Property (Side - Angle - Side) - if any two sides and angles included between the sides of one triangle are equivalent to the corresponding two sides and the angle between the sides of the second triangle , then the two triangles are said to be congruent by SAS rule.
 
@@ -873,13 +880,13 @@ $$ Projections \enspace of \enspace PQ \enspace , P(x1,y1,z1), Q(x2,y1,z1) \ensp
 
 # Arc Length Calculator
 - The length of an arc depends on the radius of a circle and the central angle $$ \theta $$
-  
+
 <p>
 
-$$  \dfrac{L}{\theata} = \dfrac{c}{2\pi} $$
+$$  \dfrac{L}{\theta} = \dfrac{c}{2\pi} $$
 $$  as \enspace circumference C = 2\pi r $$
-$$  \dfrac{L}{\theata} = \dfrac{2\pi r}{2\pi} $$
-$$  \dfrac{L}{\theata} = r $$
+$$  \dfrac{L}{\theta} = \dfrac{2\pi r}{2\pi} $$
+$$  \dfrac{L}{\theta} = r $$
 $$  We \enspace find \enspace out  \enspace the \enspace arc \enspace length \enspace formula \enspace when \enspace \enspace multiplying \enspace the \enspace equation \enspace by \enspace \theta $$
 $$  L = r * \theta $$
 
@@ -889,7 +896,7 @@ $$  L = r * \theta $$
 
 ### Distance between two planes and angle between two planes
 - this tool calculates the distance between two planes and angle between two planes
-  
+
 
 
 - AAS Property (Angle - Angle - Side) - If any two angles and a non included side of one triangle are equivalent to the corresponding two angles and the non included side of the second triangle, then the two triangles are said to be congruent by AAS rule.
@@ -900,7 +907,7 @@ $$  L = r * \theta $$
 <div class="col-md-6 pb-2" >
 
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/shapes/3d-geometry-5.png" >
-
+<br><br>
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/cs-4.png" >
 
 </div>
@@ -917,7 +924,7 @@ $$  L = r * \theta $$
 
 
 <div class="container my-3 row">
-<div class="col-md-6 pb-2" >
+<div class="col-md-12 pb-2" >
 
 
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/shapes/arc.png" >
@@ -938,7 +945,7 @@ $$  L = r * \theta $$
 
 
 # Area of Segment Calculator
-- A segment of a circle can be definded as a region bounded by a chord and a corresponding arc lying between the chord's endpoints 
+- A segment of a circle can be definded as a region bounded by a chord and a corresponding arc lying between the chord's endpoints
 - Area of a segment in radians  :
 
 <p>
@@ -947,8 +954,8 @@ $$ A = \dfrac{1}{2} * r * r * (\theta - sin \theta) $$
 
 </p>
 
-- Area of a segment in degrees : 
-  
+- Area of a segment in degrees :
+
 <p>
 
 $$ A = \dfrac{1}{2} * r * r * (\dfrac{\pi}{180} \theta - sin \theta) $$
@@ -956,10 +963,10 @@ $$ A = \dfrac{1}{2} * r * r * (\dfrac{\pi}{180} \theta - sin \theta) $$
 </p>
 
 
-- this tool calculates arc length along with soloving Steps
+- this tool calculates arc length along with solving Steps
 
 ### 3-D Distance
-- this tool calculates 3d distane between two line
+- this tool calculates 3d distance between two line
 
 
 
@@ -973,7 +980,7 @@ $$ A = \dfrac{1}{2} * r * r * (\dfrac{\pi}{180} \theta - sin \theta) $$
 <div class="col-md-6 pb-2" >
 
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/shapes/3d-geometry-7.png" >
-
+<br><br>
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/cs-6.png" >
 
 </div>
@@ -986,7 +993,7 @@ $$ A = \dfrac{1}{2} * r * r * (\dfrac{\pi}{180} \theta - sin \theta) $$
 
 - This tool can find volumes, area, size, length etc of any 4-D Shape.
 - This tool have following shapes
-  - Glame
+  - Glome
   - Tesseract
   - Hypersphere
 
@@ -1001,19 +1008,21 @@ $$ A = \dfrac{1}{2} * r * r * (\dfrac{\pi}{180} \theta - sin \theta) $$
 
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/shapes/segment.png" >
 </div>
+
 <div class="col-md-6 pb-2" >
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/shapes/segment-1.png" >
-
+</div>
+<div class="col-md-6 pb-2" >
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/shapes/4d-shape-1.png" >
 </div>
 <div class="col-md-6 pb-2" >
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/shapes/4d-shape-2.png" >
-
-
+<br><br>
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/cs-7.png" >
 
 </div>
 </div>
+
 
 
 
@@ -1059,7 +1068,7 @@ $$ A = \dfrac{1}{2} * r * r * (\dfrac{\pi}{180} \theta - sin \theta) $$
 </div>
 <div class="col-md-6 pb-2" >
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/shapes/3d-shapes-2.png" >
-
+<br><br>
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/cs-8.png" >
 
 </div>
@@ -1086,14 +1095,14 @@ $$ A = \dfrac{1}{2} * r * r * (\dfrac{\pi}{180} \theta - sin \theta) $$
   - Rhombus
   - Kite
   - Trapezium
-  - And all shapes concept table 
+  - And all shapes concept table
 
-## 3-D SHapes Inscribed
-- In geometry, an inscribed planar shape or solid is one that is enclosed by and "fits snugly" inside another geometric shape or solid. To say that "figure F is inscribed in figure G" means precisely the same thing as "figure G is circumscribed about figure F". 
-- A circle or ellipse inscribed in a convex polygon (or a sphere or ellipsoid inscribed in a convex polyhedron) is tangent to every side or face of the outer figure (but see Inscribed sphere for semantic variants). A polygon inscribed in a circle, ellipse, or polygon (or a polyhedron inscribed in a sphere, ellipsoid, or polyhedron) has each vertex on the outer figure; if the outer figure is a polygon or polyhedron, there must be a vertex of the inscribed polygon or polyhedron on each side of the outer figure. 
+## 3-D Shapes Inscribed
+- In geometry, an inscribed planar shape or solid is one that is enclosed by and "fits snugly" inside another geometric shape or solid. To say that "figure F is inscribed in figure G" means precisely the same thing as "figure G is circumscribed about figure F".
+- A circle or ellipse inscribed in a convex polygon (or a sphere or ellipsoid inscribed in a convex polyhedron) is tangent to every side or face of the outer figure (but see Inscribed sphere for semantic variants). A polygon inscribed in a circle, ellipse, or polygon (or a polyhedron inscribed in a sphere, ellipsoid, or polyhedron) has each vertex on the outer figure; if the outer figure is a polygon or polyhedron, there must be a vertex of the inscribed polygon or polyhedron on each side of the outer figure.
 - An inscribed figure is not necessarily unique in orientation; this can easily be seen, for example, when the given outer figure is a circle, in which case a rotation of an inscribed figure gives another inscribed figure that is congruent to the original one.
-- Familiar examples of inscribed figures include circles inscribed in triangles or regular polygons, and triangles or regular polygons inscribed in circles. 
-- A circle inscribed in any polygon is called its incircle, in which case the polygon is said to be a tangential polygon. 
+- Familiar examples of inscribed figures include circles inscribed in triangles or regular polygons, and triangles or regular polygons inscribed in circles.
+- A circle inscribed in any polygon is called its incircle, in which case the polygon is said to be a tangential polygon.
 - A polygon inscribed in a circle is said to be a cyclic polygon, and the circle is said to be its circumscribed circle or circumcircle.
 - The inradius or filling radius of a given outer figure is the radius of the inscribed circle or sphere, if it exists.
 - The definition given above assumes that the objects concerned are embedded in two- or three-dimensional Euclidean space, but can easily be generalized to higher dimensions and other metric spaces.
@@ -1107,7 +1116,7 @@ $$ A = \dfrac{1}{2} * r * r * (\dfrac{\pi}{180} \theta - sin \theta) $$
 
 ## Fundamental Theorem of Proportionality
 
-- If a line parllel to one of the sides of a triangle intersects the other two sides in distinct points, then the segments of the other two sides in one halfplane are proportional to the segments in the other half plane.
+- If a line parallel to one of the sides of a triangle intersects the other two sides in distinct points, then the segments of the other two sides in one halfplane are proportional to the segments in the other half plane.
 
 
 
@@ -1134,7 +1143,7 @@ $$ A = \dfrac{1}{2} * r * r * (\dfrac{\pi}{180} \theta - sin \theta) $$
 # 2D Shapes
 - This tool can find volumes, area, size, length etc of any 2-D Shape.
 - This tool have following shapes
-  - Annulus 
+  - Annulus
   - Astroid
   - Arbelos
   - Bulge
@@ -1146,7 +1155,7 @@ $$ A = \dfrac{1}{2} * r * r * (\dfrac{\pi}{180} \theta - sin \theta) $$
   - Ellipse
   - Half Yin-yang
   - Heart
-  - H - Shape 
+  - H - Shape
   - Hypocycloid
   - Interior Angle Calculator
   - Kite
@@ -1168,8 +1177,8 @@ $$ A = \dfrac{1}{2} * r * r * (\dfrac{\pi}{180} \theta - sin \theta) $$
   - Cyclic Quadrilateral
 
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/cs-9.png" >
-</div>
-</div>
+
+
 
 
 - Using the fundamentals theorem on proportionality, we can obtain some results:
@@ -1188,14 +1197,14 @@ $$ A = \dfrac{1}{2} * r * r * (\dfrac{\pi}{180} \theta - sin \theta) $$
 <div class="container my-3 row">
 <div class="col-md-6 pb-2" >
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/shapes/quad-3.png" >
-
-<img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/cs-10.png" >
+<br><br>
+<img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/cs-10.jpg" >
 </div>
 </div>
 
 
 
-- if three (or more than three ) parallel lines are intercepted by two transversals, the segmets cut off on the transversals between the same parallel lines are proportional
+- if three (or more than three ) parallel lines are intercepted by two transversals, the segments cut off on the transversals between the same parallel lines are proportional
 
 
 
@@ -1207,20 +1216,20 @@ $$ A = \dfrac{1}{2} * r * r * (\dfrac{\pi}{180} \theta - sin \theta) $$
 </div>
 <div class="col-md-6 pb-2" >
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/shapes/2d-shapes-2.png" >
-
-<img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/cs-11.png" >
+<br><br>
+<img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/cs-11.jpg" >
 
 </div>
 </div>
 
 
 
-- Summary Tabel
+- Summary Table
 <div class="container my-3 row">
 <div class="col-md-6 pb-2" >
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/shapes/quad-2.png" >
-
-
+</div>
+</div>
 
 <div class="container my-3 row">
 <div class="col-md-6 pb-2" >
@@ -1228,6 +1237,8 @@ $$ A = \dfrac{1}{2} * r * r * (\dfrac{\pi}{180} \theta - sin \theta) $$
 </div>
 <div class="col-md-6 pb-2" >
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/shapes/2d-shapes-4.png" >
+</div>
+</div>
 
 - In a triangle the bisector of an angle divides the side opposite to the angle in the segments whose lengths are in the ratio of their corresponding sides.
 
@@ -1235,7 +1246,7 @@ $$ A = \dfrac{1}{2} * r * r * (\dfrac{\pi}{180} \theta - sin \theta) $$
 
 <div class="container my-3 row">
 <div class="col-md-6 pb-2" >
-<img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/cs-12.png" >
+<img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/cs-12.jpg" >
 
 </div>
 </div>
@@ -1246,12 +1257,12 @@ $$ A = \dfrac{1}{2} * r * r * (\dfrac{\pi}{180} \theta - sin \theta) $$
 
 
 
-## 2-D SHapes Inscribed
-- In geometry, an inscribed planar shape or solid is one that is enclosed by and "fits snugly" inside another geometric shape or solid. To say that "figure F is inscribed in figure G" means precisely the same thing as "figure G is circumscribed about figure F". 
-- A circle or ellipse inscribed in a convex polygon (or a sphere or ellipsoid inscribed in a convex polyhedron) is tangent to every side or face of the outer figure (but see Inscribed sphere for semantic variants). A polygon inscribed in a circle, ellipse, or polygon (or a polyhedron inscribed in a sphere, ellipsoid, or polyhedron) has each vertex on the outer figure; if the outer figure is a polygon or polyhedron, there must be a vertex of the inscribed polygon or polyhedron on each side of the outer figure. 
+## 2-D Shapes Inscribed
+- In geometry, an inscribed planar shape or solid is one that is enclosed by and "fits snugly" inside another geometric shape or solid. To say that "figure F is inscribed in figure G" means precisely the same thing as "figure G is circumscribed about figure F".
+- A circle or ellipse inscribed in a convex polygon (or a sphere or ellipsoid inscribed in a convex polyhedron) is tangent to every side or face of the outer figure (but see Inscribed sphere for semantic variants). A polygon inscribed in a circle, ellipse, or polygon (or a polyhedron inscribed in a sphere, ellipsoid, or polyhedron) has each vertex on the outer figure; if the outer figure is a polygon or polyhedron, there must be a vertex of the inscribed polygon or polyhedron on each side of the outer figure.
 - An inscribed figure is not necessarily unique in orientation; this can easily be seen, for example, when the given outer figure is a circle, in which case a rotation of an inscribed figure gives another inscribed figure that is congruent to the original one.
-- Familiar examples of inscribed figures include circles inscribed in triangles or regular polygons, and triangles or regular polygons inscribed in circles. 
-- A circle inscribed in any polygon is called its incircle, in which case the polygon is said to be a tangential polygon. 
+- Familiar examples of inscribed figures include circles inscribed in triangles or regular polygons, and triangles or regular polygons inscribed in circles.
+- A circle inscribed in any polygon is called its incircle, in which case the polygon is said to be a tangential polygon.
 - A polygon inscribed in a circle is said to be a cyclic polygon, and the circle is said to be its circumscribed circle or circumcircle.
 - The inradius or filling radius of a given outer figure is the radius of the inscribed circle or sphere, if it exists.
 - The definition given above assumes that the objects concerned are embedded in two- or three-dimensional Euclidean space, but can easily be generalized to higher dimensions and other metric spaces.
@@ -1282,12 +1293,7 @@ $$ A = \dfrac{1}{2} * r * r * (\dfrac{\pi}{180} \theta - sin \theta) $$
 
 $$ \sum_{k=1}^{n} k^p  = \dfrac{n^{p+1}}{p+1} + \dfrac{1}{2} n^p + \sum_{k=2}^{p} \dfrac{B_{k}}{k!} p^{k-1} - n^{p-k+1}$$
 
-<p>
-
-
-
-
-
+</p>
 
 
 <div class="container my-3 row">
@@ -1319,4 +1325,3 @@ $$ \sum_{k=1}^{n} k^p  = \dfrac{n^{p+1}}{p+1} + \dfrac{1}{2} n^p + \sum_{k=2}^{p
 <div class="col-md-6 pb-2" >
 <img alt="Probablity" class="tools_screenshot img-fluid" src="../public/images/shapes/2d-inscribed-7.png" >
 </div>
-
